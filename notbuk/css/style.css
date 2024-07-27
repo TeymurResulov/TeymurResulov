@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+}
+
+.box {
+    border: 1px solid #999999;
+    width: 400px;
+    margin: 10px 40px;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+img {
+    width: 400px;
+    height: 325px;
+}
+
+.qiymet {
+    color: #b12704;
+    margin-bottom: 20px;
+}
+
+.boxses {
+    display: flex;
+    padding: 50px;
+    margin: 50px;
+}
+
+.list {
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    list-style-type: none;
+}
+
+.back {
+    font-size: 12px;
+    display: block;
+    font-style: italic;
+    color: #000;
+    padding: 10px 10px 10px 0px;
+}
+
+.buy,
+.add {
+    color: #853ae0;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 10px 10px 0px;
+}
